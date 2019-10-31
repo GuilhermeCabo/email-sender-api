@@ -1,0 +1,9 @@
+{
+  "host": "YOUR MAIL HOST",
+  "port": "MAIL PORT",
+  "secure": "TLS (true/false)",
+  "auth": {
+    "user": "MAIL HOST USER",
+    "pass": "MAIL HOST PASSWORD"
+  }
+}
