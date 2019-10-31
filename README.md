@@ -5,9 +5,7 @@ I create this for personal use, but feel free to use it if you want.
 It probably needs some adjustments though.
 
 
-For starting using it, just install the modules
-
-# yarn
+For starting using it, just install the modules with the **yarn** or **npm install** command
 
 And after that, configure your host settings on the **options.json** file, e.g.
 
